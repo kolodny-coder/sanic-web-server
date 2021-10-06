@@ -37,7 +37,7 @@ Start the server
 
 ```
 
-While the surever is running open another terminl and run 
+While the surever is running open another terminal and run 
 
 
 ```bash
