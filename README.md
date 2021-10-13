@@ -14,13 +14,13 @@ Quick and simple Sanic Server
 Clone the project
 
 ```bash
-  git clone git@github.com:kolodny-coder/varonis.git
+  git clone git@github.com:kolodny-coder/sanic-web-server.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd varonis
+  cd sanic
 ```
 
 Install dependencies
